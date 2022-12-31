@@ -1,2 +1,2 @@
 # Typecho_On_Vercel
-Typecho run on vercel used MySQL SSL
+Typecho run on vercel used MySQL SSL Connection
