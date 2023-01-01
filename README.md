@@ -8,7 +8,7 @@ Typecho run on vercel used MySQL SSL Connection
 
 ③上传部署到vercel，不会的话自行google
 
-④访问 '''https://域名/install.php''' 进行安装
+④访问 ```https://域名/install.php``` 进行安装
 
 ⑤完成
 
