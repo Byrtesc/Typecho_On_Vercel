@@ -2,9 +2,9 @@
 Typecho run on vercel used MySQL SSL Connection
 
 ## 安装：
-①Fork本仓库
+①Fork 本仓库
 
-②修改config.inc.php里面的数据库信息，不用ssl/tls连接mysql直接留空
+②修改```config.inc.php```里面的数据库信息，不用```ssl/tls```连接mysql直接留空
 
 ③上传部署到vercel，不会的话自行google
 
