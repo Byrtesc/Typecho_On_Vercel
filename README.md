@@ -14,4 +14,4 @@ Typecho run on vercel used MySQL SSL Connection
 
 PS:由于Vercel是Serverless的方案，所以屏蔽了安装检测上传权限的语句
 
-基于```Typecho 1.2.0```修改，动了两个地方，一个是安装时检测```upload```权限，一个是```pdo_mysql```适配```ssl/tls```连接，其他地方都没动，留一个repository方便以后自己查看
+基于```Typecho 1.2.0```修改，动了两个地方，一个是跳过安装时检测```upload```权限，一个是```pdo_mysql```适配```ssl/tls```连接，其他地方都没动，留一个repository方便以后自己查看
